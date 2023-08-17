@@ -81,7 +81,7 @@ export default function AboutSection() {
           />
           <PText>
             It's me, Amit Kumar Sharma, age 23. I'm Developer with a keen
-            interest in Web Development and also have a hands-on experience in
+            interest in fjiifjfjff and also have a hands-on experience in
             HTML, CSS, JAVASCRIPT, REACT and many more.I can describe myself as
             a Team player, a self-motivated person who loves bold challenges
             that come along the way and also experience with project management
